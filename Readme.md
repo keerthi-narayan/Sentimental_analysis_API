@@ -36,7 +36,7 @@ pip install -r requirements.txt
 - [API Endpoints](#api-endpoints)
 - [Text Preprocessing](#text-preprocessing)
 - [Running the Application](#running-the-application)
-- [Postman Collection] (#importing-.json-file-into-postman)
+- [Postman_Collection]_(#importing-.json-file-into-postman)
 - [Testing with Postman](#testing-with-postman)
 - [Running Tests](#running-tests)
 - [Project Evaluation](#project-evaluation)
